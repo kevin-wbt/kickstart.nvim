@@ -49,16 +49,6 @@ git clone https://github.com/kevin-wbt/kickstart.nvim.git "${XDG_CONFIG_HOME:-$H
 
 </details>
 
-
-### Post Installation
-
-Start Neovim
-
-```sh
-nvim
-```
-
-
 ### multiple configs
 <details>
   
